@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #87CEEB; /* Sky blue background */
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #FFFFFF; /* White background for the game area */
+}
+
+h1 {
+    text-align: center;
+    color: #FF0000; /* Red color for the title */
+    font-family: 'Arial', sans-serif;
+}
+
+.instructions {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #000000; /* Black color for instructions */
+    font-size: 18px;
+}

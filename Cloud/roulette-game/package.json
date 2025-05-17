@@ -1,0 +1,16 @@
+{
+  "name": "roulette-game",
+  "version": "1.0.0",
+  "description": "A roulette game using HTML, CSS, and JavaScript with physics for ball movement.",
+  "main": "src/js/game.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.0.0",
+    "roulette-game": "file:"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
